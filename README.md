@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-* 💼 DevOps Engineer with 2+ years of industry experience
+* 💼 DevOps Engineer with 4+ years of industry experience
 * 🏢 Currently working at Wipro Technologies
 * ☁️ Working with cloud platforms, containers, and automation tools
 * 🌱 Preparing for AWS and Kubernetes certifications
