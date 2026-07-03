@@ -67,12 +67,15 @@
 * 🚀 Advanced CI/CD Practices
 
 ---
+## 📊 GitHub Activity
 
-## 📈 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://streak-stats.demolab.com?user=mareh786&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareh786&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
