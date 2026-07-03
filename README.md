@@ -70,9 +70,9 @@
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mareh786\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mareh786\&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=mareh786&theme=tokyonight)
 
 ---
 
