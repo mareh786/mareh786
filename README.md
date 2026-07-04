@@ -57,6 +57,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
 
 ---
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=mareh786&theme=tokyonight)
+---
 
 ## 📚 Currently Learning
 
