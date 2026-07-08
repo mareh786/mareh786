@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Mohammed Adil Rehan
 
 <div align="center">
@@ -76,4 +77,41 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareh786&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Mohammed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mareh786&theme=tokyo-night&hide_border=true)](https://github.com/mareh786)
+
+---
+
+# 💼 Open To Opportunities
+
+- DevOps Engineer
+- Cloud Engineer
+- Platform Engineer
+- Site Reliability Engineer (SRE)
+- Kubernetes Administrator
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:**  
+**mohammedadilrehan@gmail.com**
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/mohammed-adil-rehan-b9b585154/
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building reliable infrastructure through automation, scalability, and continuous learning."*
+
+</div>
