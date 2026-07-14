@@ -8,12 +8,12 @@
 
 # 🚀 About Me
 
-- 💼 DevOps Engineer with **4+ years** of industry experience
-- 🏢 Currently working at **Wipro Technologies**
-- ☁️ Experienced with **Kubernetes, Docker, Linux, CI/CD, Monitoring, and AWS**
-- 🌱 Preparing for **AWS** and **CKA** certifications
-- 🤝 Open to collaborating on DevOps and Open Source projects
-- 📚 Passionate about learning, automation, and cloud technologies
+- 💼 DevOps Engineer with **4+ years** of industry experience  
+- 🏢 Currently working at **Wipro Technologies**  
+- ☁️ Experienced with **Kubernetes, Docker, Linux, CI/CD, Monitoring, and AWS**  
+- 🌱 Preparing for **AWS** and **CKA** certifications  
+- 🤝 Open to collaborating on DevOps and Open Source projects  
+- 📚 Passionate about learning, automation, and cloud technologies  
 
 ---
 
@@ -49,7 +49,7 @@
 # 💼 Open To Opportunities
 
 - DevOps Engineer
-- Cloud Engineer
+- Cloud Engineer  
 - Platform Engineer
 - Site Reliability Engineer (SRE)
 - Kubernetes Administrator
@@ -58,15 +58,14 @@
 
 # 🤝 Let's Connect
 
-📧 **Email:** mohammedadilrehan@gmail.com
-
+📧 **Email:** [mohammedadilrehan@gmail.com](mailto:mohammedadilrehan@gmail.com)  
 💼 **LinkedIn:** [Mohammed Adil Rehan](https://www.linkedin.com/in/mohammed-adil-rehan-b9b585154/)
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Building reliable infrastructure through automation, scalability, and continuous learning."*
+**"Carving my path in DevOps & MLOps — building reliable, scalable infrastructure and intelligent systems one deployment at a time."**
 
 ---
 
