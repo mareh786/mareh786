@@ -46,14 +46,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![mareh786's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mareh786&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 # 💼 Open To Opportunities
 
 - DevOps Engineer
