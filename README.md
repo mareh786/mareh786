@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Mohammed Adil Rehan
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Kubernetes+Enthusiast;Cloud+Automation+Specialist;Building+Reliable+Systems!&center=true&width=600&height=50&color=00BFFF)
@@ -48,8 +47,6 @@
 ---
 
 # 📊 GitHub Stats
-
-![mareh786's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mareh786&theme=tokyonight&hide_border=true)
 
