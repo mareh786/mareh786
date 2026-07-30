@@ -45,19 +45,9 @@
 - 🚀 **Advanced CI/CD Practices**
 
 ---
+## 📈 GitHub Activity
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareh786&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
----
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mareh786&theme=tokyo-night&hide_border=true)](https://github.com/mareh786)
 
 # 💼 Open To Opportunities
 
