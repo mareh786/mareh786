@@ -50,19 +50,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareh786&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mareh786&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareh786&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+---
 
 # 💼 Open To Opportunities
 
