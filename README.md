@@ -48,8 +48,21 @@
 
 # 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mareh786&theme=tokyonight&hide_border=true)
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mareh786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareh786&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mareh786&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
 ---
 
 # 💼 Open To Opportunities
