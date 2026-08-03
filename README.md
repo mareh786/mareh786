@@ -74,11 +74,6 @@
 
 ---
 
-# 📈 GitHub Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mareh786&theme=tokyo-night&hide_border=true)](https://github.com/mareh786)
-
----
 
 # 💼 Open To Opportunities
 
